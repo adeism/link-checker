@@ -4,8 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/downloads/)
 [![Requests](https://img.shields.io/badge/Requests-Latest-green.svg)](https://docs.python-requests.org/en/latest/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/yourusername/linkchecker/graphs/commit-activity)
+
 
 ## ✨ Features
 
